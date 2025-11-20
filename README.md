@@ -69,7 +69,3 @@
   </a>
 </p>
 
-
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-![](https://raw.githubusercontent.com/SauloCunha02/github-stats-transparent/output/generated/languages.svg)
