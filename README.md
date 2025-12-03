@@ -17,13 +17,17 @@
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 📊 Minhas Estatísticas no GitHub
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,python,java,spring,mysql,postgres,mongodb,git,github,docker,linux,wordpress,elementor" />
-  </a>
-</p>
+<img height="180em" src="https://github-readme-stats.cyclic.app/api?username=SauloCunha02&theme=dracula&show_icons=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="180em" src="https://github-readme-stats.cyclic.app/api/top-langs/?username=SauloCunha02&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+
+---
+
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.cyclic.app?user=SauloCunha02&theme=tokyonight&hide_border=true&card_width=440" alt="GitHub Streak"/>
 
 ---
 
