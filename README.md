@@ -31,23 +31,13 @@
 
 <p align="center">
   <a href="https://github.com/saulocunha02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauloCunha02&theme=dracula&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulocunha02&layout=compact&langs_count=7&theme=tokyonight"/>
+### 📊 Minhas Estatísticas do GitHub
+
+[![Estatísticas do GitHub de SauloCunha02](https://github-readme-stats.vercel.app/api?username=SauloCunha02&theme=dracula&show_icons=true&rank_icon=github)](https://github.com/SauloCunha02)
+
+[![Linguagens Mais Usadas de SauloCunha02](https://github-readme-stats.vercel.app/api/top-langs/?username=saulocunha02&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/SauloCunha02)
   </a>
 </p>
-
----
-
-### ✨ Meus Principais Projetos
-
-<!-- 
-  OBS: Substitua o '#' pelo link direto para o repositório do projeto, se ele estiver no GitHub.
--->
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **ODIM UFC** | Plataforma de gestão acadêmica para o curso de Odontologia da UFC. | `Laravel` `MySQL` `Bootstrap` |
-| **Bibliotec** | Sistema de gerenciamento para bibliotecas escolares. | `PHP` `MySQL` `Bootstrap` |
-| **WebSite EP** | Website institucional responsivo para escola profissionalizante. | `WordPress` `Elementor` |
 
 <p align="right">
   <a href="https://github.com/saulocunha02?tab=repositories">Ver todos os meus repositórios →</a>
