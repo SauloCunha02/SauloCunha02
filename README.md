@@ -17,32 +17,14 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🏅 Conquistas Simples (via Shields.io)
 
-<img height="180em" src="https://github-readme-stats.cyclic.app/api?username=SauloCunha02&theme=dracula&show_icons=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img height="180em" src="https://github-readme-stats.cyclic.app/api/top-langs/?username=SauloCunha02&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
-
----
-
-### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.cyclic.app?user=SauloCunha02&theme=tokyonight&hide_border=true&card_width=440" alt="GitHub Streak"/>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/saulocunha02">
-### 📊 Minhas Estatísticas do GitHub
-
-[![Estatísticas do GitHub de SauloCunha02](https://github-readme-stats.vercel.app/api?username=SauloCunha02&theme=dracula&show_icons=true&rank_icon=github)](https://github.com/SauloCunha02)
-
-[![Linguagens Mais Usadas de SauloCunha02](https://github-readme-stats.vercel.app/api/top-langs/?username=saulocunha02&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/SauloCunha02)
-  </a>
-</p>
-
+| Métrica | Badge |
+| :--- | :--- |
+| **Estrelas Totais** | <img src="https://img.shields.io/github/stars/SauloCunha02?style=flat&color=fedc3e&label=Estrelas%20Totais" alt="Estrelas Totais"/> |
+| **Commits** | <img src="https://img.shields.io/github/commits-since/SauloCunha02/SauloCunha02/main?style=flat&color=33c91e&label=Commits%20Últimos%207d"/> |
+| **Pull Requests** | <img src="https://img.shields.io/github/issues-pr/SauloCunha02/SauloCunha02?style=flat&color=6610f2&label=Pull%20Requests%20Abertos"/> |
+| **Seguidores** | <img src="https://img.shields.io/github/followers/SauloCunha02?style=flat&color=3388c9&label=Seguidores&logo=github" alt="Seguidores"/> |
 <p align="right">
   <a href="https://github.com/saulocunha02?tab=repositories">Ver todos os meus repositórios →</a>
 </p>
